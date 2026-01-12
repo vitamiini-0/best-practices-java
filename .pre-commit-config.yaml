@@ -74,4 +74,4 @@ repos:
         language: system
         files: \.java$
         pass_filenames: false
-        stages: [pre-push]
+        stages: [pre-commit]
